@@ -22,3 +22,4 @@ Part of the data is coming from the sources listed in the [sota-extractor README
 All data is licenced under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). 
 
 
+Created by Jason Scott Heise
